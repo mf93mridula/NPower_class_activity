@@ -1,1 +1,3 @@
-Looking out my window,
+1. Looking out my window,
+2. Thinking about Python.
+3. I saw an actual python in the garden
